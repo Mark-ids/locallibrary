@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bannertextsize">25sp</dimen>
+    <dimen name="smallscreengutter">8dp</dimen>
+    <dimen name="mintextinputheight">40dp</dimen>
+    <dimen name="normaltextsize">15sp</dimen>
+    <dimen name="mincardheight">100dp</dimen>
+    <dimen name="card_title1">20sp</dimen>
+    <dimen name="card_element_margin">4dp</dimen>
+    <dimen name="card_action_textsize">18sp</dimen>
+    <dimen name="book_title_size">18sp</dimen>
+</resources>
